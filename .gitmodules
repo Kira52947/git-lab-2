@@ -1,3 +1,6 @@
 [submodule "lab-common"]
 	path = lab-common
 	url = https://github.com/Kira52947/lab-common.git
+[submodule "shared/lab-common"]
+	path = shared/lab-common
+	url = https://github.com/Kira52947/lab-common.git
