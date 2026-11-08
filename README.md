@@ -12,3 +12,5 @@
 
 подмодулей и Git LFS.
 
+Draft documentation
+
